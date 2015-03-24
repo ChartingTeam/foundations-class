@@ -2,6 +2,6 @@
 ## Tue March 24
 
 Repository for foundations 
-### Instructors
+### Instructors:
 *Joshua
 *Jordan
