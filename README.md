@@ -3,5 +3,5 @@
 
 Repository for foundations 
 ### Instructors:
-*Joshua
-*Jordan
+ *Joshua
+ *Jordan
